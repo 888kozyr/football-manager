@@ -35,7 +35,7 @@ mvn clean install spring-boot:run
 
 Для тестування API скористайтеся готовою колекцією у Postman:
 
-[Football Manager Postman Collection](https://api.postman.com/collections/8309435-1eb5d8a9-f63d-47a4-92a0-afe3970e3598?access_key=PMAT-01JGSCR80WC8HTXDDCBDVG7TTF)
+[Football Manager Postman Collection]()
 
 1. Відкрийте [Postman](https://www.postman.com/).
 2. Імпортуйте колекцію за цим посиланням.
